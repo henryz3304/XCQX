@@ -1,0 +1,39 @@
+/**index.wxss**/
+
+.root {
+  width: 100%;
+   height: 700px;
+   background-color: #70c7da;
+   position: relative;
+}
+
+.background-image{
+  height : 100%;
+   position: absolute;
+   width: 100%;
+   left: 0px;
+   top: 0px;
+}
+.content{
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   left: 0px;
+   top: 0px;
+}
+
+.logo-image{
+  height: 100rpx;
+  width: 200rpx;
+   position: absolute;
+   left: 5px;
+   top: 0px;
+}
+
+.title-word{
+    position: absolute;
+    left: 125px;
+    top: 15px;
+    color: orange;
+    font-weight: bold;
+ }

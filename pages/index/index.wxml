@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class="root">
+  <image class='background-image' src='../res/bg.jpg' mode="aspectFill"></image>
+  <view class="content">
+  </view>
+</view>
+
+<view class="title">
+  <image class='logo-image' src='../res/logo.png' mode="aspectFit">
+  </image>
+  <text class="title-word">上海晓春汽车维修有限公司</text>
+</view>
